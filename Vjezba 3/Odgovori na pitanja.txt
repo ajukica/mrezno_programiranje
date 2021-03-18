@@ -1,0 +1,7 @@
+1.  Što radi linija koda client_socket.connect((host,port))?
+
+	Govori klijentu koji je host i na koji se port treba spojiti.
+
+2. U serverskom dijelu vašeg programa, što znači drugi broj u zagradama kod ispisa „Got connection…“?  
+
+	Drugi broj pokazuje port koji klijent za spajanje server.
